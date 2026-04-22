@@ -1,50 +1,31 @@
-\# LLM Giriş Projesi
+# Yapay Zeka Destekli Klinik Asistanı
 
+Bu proje, Büyük Dil Modelleri (LLM) kullanarak hastane triyaj ve tanı süreçlerine destek olmak amacıyla geliştirilmiştir. Docker desteği sayesinde kurulum karmaşası olmadan her ortamda hızlıca çalıştırılabilir.
 
-
-Bu proje, Büyük Dil Modelleri (LLM) üzerine çalışmalar yapmak için oluşturulmuş temel bir geliştirme ortamıdır. Proje, Docker kullanılarak konteynerize edilmiştir; bu sayede bağımlılıklarla uğraşmadan her ortamda hızlıca çalıştırılabilir.
-
-
-
-\## 🛠️ Kurulum ve Çalıştırma
-
-
+## 🛠️ Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
 
+### 1. Ön Gereksinimler
+Sisteminizde **Docker** kurulu olmalıdır.
 
-
-\### 1. Ön Gereksinimler
-
-Sisteminizde \*\*Docker\*\* kurulu olmalıdır.
-
-
-
-\### 2. Projeyi Kopyalayın
-
+### 2. Projeyi Klonlayın
 ```bash
-
-git clone \[https://github.com/tunahan/llmGiris.git](https://github.com/tunahan/llmGiris.git)
-
-cd llmGiris
+git clone [https://github.com/TunahanYlcnn/Yapay-Zeka-Destekli-Klinik-Asistan-.git](https://github.com/TunahanYlcnn/Yapay-Zeka-Destekli-Klinik-Asistan-.git)
+cd Yapay-Zeka-Destekli-Klinik-Asistan-
 
 
-
-\### 3. Docker İmajını Oluşturun
+### 3. Docker İmajını Oluşturun
 
 Proje klasöründeyken terminale şu komutu yazarak Docker imajını hazırlayın:
-
-
 
 docker build -t llm-giris-projesi .
 
 
 
-\###4. Konteyneri Çalıştırın
+###4. Konteyneri Çalıştırın
 
 İmaj oluştuktan sonra projeyi şu komutla ayağa kaldırın:
-
-
 
 docker run -it --name llm-calisma-alani llm-giris-projesi
 
@@ -53,13 +34,7 @@ docker run -it --name llm-calisma-alani llm-giris-projesi
 📦 Proje İçeriği ve Yapılandırma
 
 Docker Kullanımı: Proje tamamen Dockerize edilmiştir. Dockerfile üzerinden tüm sistem bağımlılıkları otomatik yüklenir.
-
-
-
 Python Bağımlılıkları: Gerekli tüm paketler requirements.txt dosyasında listelenmiştir.
-
-
-
 Geliştirme Ortamı: Proje Windows 11 Pro üzerinde, Lenovo Gaming sisteminde geliştirilmiştir.
 
 
