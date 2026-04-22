@@ -1,0 +1,23 @@
+# Python gereksizleri
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortamlar (Build süresini en çok bunlar uzatır)
+.venv
+venv
+env
+bin
+obj
+
+# Git ve IDE dosyaları
+.git
+.gitignore
+.vscode
+.idea
+
+# Loglar ve geçici dosyalar
+*.log
+.env
+.DS_Store
