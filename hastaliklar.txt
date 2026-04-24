@@ -1,323 +1,327 @@
-ÜROLOJİ 
-Hastalık: Böbrek Taşı (Nefrolitiazis)
+# ÜROLOJİ 
+
+## Hastalık: Böbrek Taşı (Nefrolitiazis)
 Belirtiler: Şiddetli yan ağrısı (kolik), mide bulantısı, idrarda kan.
 Protokol: Hasta yan ağrısı diyorsa; ağrının kasıklara vurup vurmadığını ve idrar rengini sor. Kasıklara vuruyorsa Böbrek Taşı tanısı koy.
 
-Hastalık: Benign Prostat Hiperplazisi (BPH)
+## Hastalık: Benign Prostat Hiperplazisi (BPH)
 Belirtiler: Kesik kesik idrar, gece sık idrara çıkma, idrar torbasının tam boşalmaması.
 Protokol: İdrar yapma zorluğu varsa; hastanın yaşını ve gece kaç kez kalktığını sor. Yaş 50+ ve gece 2+ kalkış varsa BPH tanısı koy.
 
-Hastalık: Sistit (İdrar Kesisi İltihabı)
+## Hastalık: Sistit (İdrar Kesisi İltihabı)
 Belirtiler: İdrar yaparken yanma, sık idrar hissi, alt karın ağrısı.
 Protokol: Yanma varsa; ateş olup olmadığını sor. Ateş yoksa ve sadece yanma/sık idrar varsa Sistit tanısı koy.
 
-Hastalık: Varikosel
+## Hastalık: Varikosel
 Belirtiler: Testislerde ağrı, şişlik, damarlı görünüm.
 Protokol: Testis ağrısı varsa; ayakta durunca ağrının artıp artmadığını sor. Damarlı yapı varsa Varikosel tanısı koy.
 
-Hastalık: Prostatit (Prostat İltihabı)
+## Hastalık: Prostatit (Prostat İltihabı)
 Belirtiler: Pelvik ağrı, idrarda yanma, ateş, boşalma sırasında ağrı.
 Protokol: Pelvik ağrı varsa; ateş ve boşalma ağrısı durumunu sor. Her ikisi varsa Prostatit tanısı koy.
 
-Hastalık: Hidrosel (Testis Torbasında Sıvı)
+## Hastalık: Hidrosel (Testis Torbasında Sıvı)
 Belirtiler: Testis torbasında ağrısız şişlik, ağırlık hissi.
 Protokol: Şişlik varsa; ağrı olup olmadığını sor. Ağrı yoksa ama şişlik varsa Hidrosel tanısı koy.
 
-Hastalık: Üretra Darlığı
+## Hastalık: Üretra Darlığı
 Belirtiler: İdrar akım hızında azalma, çatallı idrar yapma.
 Protokol: Akış hızı düşükse; geçmişte travma veya sonda kullanımı olup olmadığını sor. Varsa Üretra Darlığı tanısı koy.
 
-Hastalık: Mesane Kanseri
+## Hastalık: Mesane Kanseri
 Belirtiler: Ağrısız idrarda kan gelmesi, sık idrara çıkma.
 Protokol: Kanama varsa; ağrı olup olmadığını sor. Ağrısız kanama varsa Mesane Kanseri şüphesiyle doktora yönlendir.
 
-Hastalık: İnmemiş Testis
+## Hastalık: İnmemiş Testis
 Belirtiler: Testis torbasında testislerden birinin veya ikisinin hissedilmemesi.
 Protokol: Torbada boşluk varsa; çocuğun yaşını sor. Doğumdan beri varsa İnmemiş Testis tanısı koy.
 
-Hastalık: Aşırı Aktif Mesane
+## Hastalık: Aşırı Aktif Mesane
 Belirtiler: Ani sıkışma hissi, yetişemeden idrar kaçırma.
 Protokol: Sıkışma varsa; günde kaç kez tuvalete gittiğini sor. 8'den fazlaysa Aşırı Aktif Mesane tanısı koy.
 
-Hastalık: Epididimit
+## Hastalık: Epididimit
 Belirtiler: Testiste şişlik, kızarıklık, yüksek ateş.
 Protokol: Şişlik ve kızarıklık varsa; ateş olup olmadığını sor. Ateş varsa Epididimit tanısı koy.
 
-Hastalık: Orşit (Testis İltihabı)
+## Hastalık: Orşit (Testis İltihabı)
 Belirtiler: Testis ağrısı, kabakulak geçmişi, yüksek ateş.
 Protokol: Ani ağrı varsa; yakın zamanda kabakulak geçirip geçirmediğini sor. Varsa Orşit tanısı koy.
 
-Hastalık: Mesane Taşı
+## Hastalık: Mesane Taşı
 Belirtiler: İdrarın aniden kesilmesi, peniste ağrı, idrarda kan.
 Protokol: İdrar kesiliyorsa; hareket edince idrarın tekrar gelip gelmediğini sor. Geliyorsa Mesane Taşı tanısı koy.
 
-Hastalık: Piyelonefrit (Böbrek İltihabı)
+## Hastalık: Piyelonefrit (Böbrek İltihabı)
 Belirtiler: Yüksek ateş, titreme, sırt ağrısı, kusma.
 Protokol: Sırt ağrısı ve ateş varsa; idrar yaparken yanma olup olmadığını sor. Yanma eşlik ediyorsa Piyelonefrit tanısı koy.
 
-Hastalık: Üreterosel
+## Hastalık: Üreterosel
 Belirtiler: Tekrarlayan idrar yolu enfeksiyonu, yan ağrısı.
 Protokol: Sürekli enfeksiyon varsa; ultrason bulgusu sor. Mesane içinde balonlaşma varsa Üreterosel tanısı koy.
 
-Hastalık: Hipospadias (Peygamber Sünneti)
+## Hastalık: Hipospadias (Peygamber Sünneti)
 Belirtiler: İdrar deliğinin penisin altında olması.
 Protokol: Delik yerinde değilse; deliğin tam olarak nerede olduğunu sor. Alt kısımdaysa Hipospadias tanısı koy.
 
-Hastalık: Epispadias
+## Hastalık: Epispadias
 Belirtiler: İdrar deliğinin penisin üstünde olması.
 Protokol: Delik yerinde değilse; üst kısımda olup olmadığını sor. Üstteyse Epispadias tanısı koy.
 
-Hastalık: Nörojen Mesane
+## Hastalık: Nörojen Mesane
 Belirtiler: İdrar yapamama veya kontrolsüz kaçırma, omurga yaralanması geçmişi.
 Protokol: Kontrol kaybı varsa; bel fıtığı veya kaza geçmişi sor. Varsa Nörojen Mesane tanısı koy.
 
-Hastalık: Renal Arter Stenozu
+## Hastalık: Renal Arter Stenozu
 Belirtiler: İlaçla düşmeyen yüksek tansiyon, böbrek ağrısı.
 Protokol: Tansiyon düşmüyorsa; aile öyküsünü sor. Dirençli tansiyon varsa Renal Arter Stenozu tanısı koy.
 
-Hastalık: Spermatoosel (Sperm Kisti)
+## Hastalık: Spermatoosel (Sperm Kisti)
 Belirtiler: Testis üzerinde küçük, ağrısız kitle.
 Protokol: Kitle varsa; ağrı olup olmadığını sor. Ağrısız ve nohut büyüklüğündeyse Spermatoosel tanısı koy.
 
-NEFROLOJİ 
-Hastalık: Kronik Böbrek Yetmezliği
+# NEFROLOJİ 
+
+## Hastalık: Kronik Böbrek Yetmezliği
 Belirtiler: Ayak bileklerinde ödem, halsizlik, idrar miktarında azalma.
 Protokol: Şişlik varsa; tansiyon veya şeker geçmişi sor. Varsa ve idrar azsa Böbrek Yetmezliği tanısı koy.
 
-Hastalık: Nefrotik Sendrom
+## Hastalık: Nefrotik Sendrom
 Belirtiler: Göz çevresinde şişlik, köpüklü idrar, hızlı kilo artışı.
 Protokol: Köpüklü idrar varsa; sabahları göz kapağı şişliği olup olmadığını sor. Varsa Nefrotik Sendrom tanısı koy.
 
-Hastalık: Glomerulonefrit
+## Hastalık: Glomerulonefrit
 Belirtiler: Çay rengi idrar, yüksek tansiyon, yüz ödemi.
 Protokol: İdrar koyuysa; son 2 haftada boğaz enfeksiyonu sor. Varsa Glomerulonefrit tanısı koy.
 
-Hastalık: Polikistik Böbrek Hastalığı
+## Hastalık: Polikistik Böbrek Hastalığı
 Belirtiler: Karında büyüme, yan ağrısı, ailede böbrek hastalığı.
 Protokol: Yan ağrısı varsa; ailede kist geçmişi sor. Varsa Polikistik Böbrek tanısı koy.
 
-Hastalık: Alport Sendromu
+## Hastalık: Alport Sendromu
 Belirtiler: İdrarda kan, işitme kaybı, görme sorunları.
 Protokol: Kanama varsa; duyma kaybı olup olmadığını sor. Varsa Alport Sendromu tanısı koy.
 
-Hastalık: Lupus Nefriti
+## Hastalık: Lupus Nefriti
 Belirtiler: Yüzde kelebek tarzı kızarıklık, idrarda protein kaçağı, eklem ağrısı.
 Protokol: Kızarıklık ve eklem ağrısı varsa; idrarda köpürme sor. Varsa Lupus Nefriti tanısı koy.
 
-Hastalık: İyi Huylu Hematüri
+## Hastalık: İyi Huylu Hematüri
 Belirtiler: İdrarda kan, ancak ağrı veya başka belirti yok.
 Protokol: Kanama varsa; ağrı veya şişlik sor. Hiçbir ek belirti yoksa İyi Huylu Hematüri tanısı koy.
 
-Hastalık: Diyabetik Nefropati
+## Hastalık: Diyabetik Nefropati
 Belirtiler: Uzun süreli şeker hastalığı, idrarda protein, yüksek tansiyon.
 Protokol: Şeker hastasıysa; idrar testi sonucunda protein olup olmadığını sor. Varsa Diyabetik Nefropati tanısı koy.
 
-Hastalık: Amiloidoz
+## Hastalık: Amiloidoz
 Belirtiler: Kalp yetmezliği bulguları, dilde büyüme, böbrek sorunları.
 Protokol: Dil büyüklüğü ve protein kaçağı varsa; Amiloidoz şüphesiyle biyopsi öner.
 
-Hastalık: Renal Tübüler Asidoz
+## Hastalık: Renal Tübüler Asidoz
 Belirtiler: Kas güçsüzlüğü, kemik ağrısı, büyüme geriliği.
 Protokol: Kas güçsüzlüğü varsa; kan tahlilinde asitlik oranını sor. Yüksekse Renal Tübüler Asidoz tanısı koy.
 
-Hastalık: Fanconi Sendromu
+## Hastalık: Fanconi Sendromu
 Belirtiler: Kemik erimesi, çok idrar yapma, kas krampları.
 Protokol: Kramplar ve çok idrar varsa; glukoz kaçağı olup olmadığını sor. Varsa Fanconi Sendromu tanısı koy.
 
-Hastalık: Renal Enfarktüs
+## Hastalık: Renal Enfarktüs
 Belirtiler: Ani ve şiddetli yan ağrısı, kanlı idrar, taş yokluğu.
 Protokol: Ağrı varsa; taş olup olmadığına bakıldı mı diye sor. Taş yok ama ağrı şiddetliyse Renal Enfarktüs tanısı koy.
 
-Hastalık: Hiponatremi (Sodyum Düşüklüğü)
+## Hastalık: Hiponatremi (Sodyum Düşüklüğü)
 Belirtiler: Kafa karışıklığı, nöbet, kas krampları, baş ağrısı.
 Protokol: Kafa karışıklığı varsa; çok su içip içmediğini veya tuz kısıtlamasını sor. Varsa Hiponatremi tanısı koy.
 
-Hastalık: Hiperkalemi (Potasyum Yüksekliği)
+## Hastalık: Hiperkalemi (Potasyum Yüksekliği)
 Belirtiler: Kalp çarpıntısı, göğüs ağrısı, kas felci.
 Protokol: Çarpıntı varsa; potasyum değeri sor. 5.5 üzerindeyse Hiperkalemi tanısı koy.
 
-Hastalık: Goodpasture Sendromu
+## Hastalık: Goodpasture Sendromu
 Belirtiler: Kanlı öksürük, nefes darlığı, kanlı idrar.
 Protokol: Öksürükle kan geliyorsa; idrar rengini sor. İdrarda da kan varsa Goodpasture Sendromu tanısı koy.
 
-Hastalık: IgA Nefropatisi
+## Hastalık: IgA Nefropatisi
 Belirtiler: Üst solunum yolu enfeksiyonu sırasında idrarda kan gelmesi.
 Protokol: Kanama varsa; şu an grip veya nezle olup olmadığını sor. Varsa IgA Nefropatisi tanısı koy.
 
-Hastalık: Wegener Granülomatozu
+## Hastalık: Wegener Granülomatozu
 Belirtiler: Burun kanaması, öksürük, böbrek yetmezliği bulguları.
 Protokol: Burun ve akciğer sorunu varsa; böbrek değerlerini sor. Yüksekse Wegener tanısı koy.
 
-Hastalık: Üremik Sendrom
+## Hastalık: Üremik Sendrom
 Belirtiler: Ciltte kaşıntı, ağızda metalik tat, iştahsızlık.
 Protokol: Metalik tat ve kaşıntı varsa; üre değerini sor. Çok yüksekse Üremik Sendrom tanısı koy.
 
-Hastalık: İnce Bazal Membran Hastalığı
+## Hastalık: İnce Bazal Membran Hastalığı
 Belirtiler: Sürekli idrarda kan, ancak böbrek fonksiyonları normal.
 Protokol: Kanama geçmiyorsa; ailede benzer durum sor. Fonksiyonlar normalse İnce Bazal Membran tanısı koy.
 
-Hastalık: Medüller Sünger Böbrek
+## Hastalık: Medüller Sünger Böbrek
 Belirtiler: Tekrarlayan böbrek taşları, idrar yolu enfeksiyonu.
 Protokol: Sürekli taş düşürüyorsa; görüntülemede böbrekte kistler olup olmadığını sor. Varsa Sünger Böbrek tanısı koy.
 
-ORTOPEDİ 
-Hastalık: Bel Fıtığı (Lomber Disk Hernisi)
+# ORTOPEDİ 
+
+## Hastalık: Bel Fıtığı (Lomber Disk Hernisi)
 Belirtiler: Bel ağrısı, bacağa yayılan uyuşma, güç kaybı.
 Protokol: Ağrı bacağa vuruyorsa; ayak parmak ucunda durabiliyor mu diye sor. Duramıyorsa Bel Fıtığı tanısı koy.
 
-Hastalık: Menisküs Yırtığı
+## Hastalık: Menisküs Yırtığı
 Belirtiler: Dizde kilitlenme, şişlik, merdiven çıkarken ağrı.
 Protokol: Diz ağrısı varsa; ani dönüşlerde takılma oluyor mu sor. Kilitlenme varsa Menisküs tanısı koy.
 
-Hastalık: Karpal Tünel Sendromu
+## Hastalık: Karpal Tünel Sendromu
 Belirtiler: İlk üç parmakta uyuşma, gece artan el ağrısı.
 Protokol: Uyuşma varsa; gece ağrıyla uyanıyor mu sor. Varsa Karpal Tünel tanısı koy.
 
-Hastalık: Tenisçi Dirseği (Lateral Epikondilit)
+## Hastalık: Tenisçi Dirseği (Lateral Epikondilit)
 Belirtiler: Dirseğin dış kısmında ağrı, kavrama güçlüğü.
 Protokol: Dirsek ağrısı varsa; kapı kolu çevirince artıyor mu sor. Artıyorsa Tenisçi Dirseği tanısı koy.
 
-Hastalık: Skolyoz
+## Hastalık: Skolyoz
 Belirtiler: Omuz asimetrisi, sırt ağrısı, belde eğrilik.
 Protokol: Eğrilik varsa; öne eğilince bir kürek kemiği daha yüksekte mi diye sor. Varsa Skolyoz tanısı koy.
 
-Hastalık: Topuk Dikeni
+## Hastalık: Topuk Dikeni
 Belirtiler: Sabah ilk adımda şiddetli topuk ağrısı.
 Protokol: Ağrı varsa; sabah kalkınca mı en şiddetli diye sor. Öyleyse Topuk Dikeni tanısı koy.
 
-Hastalık: Ön Çapraz Bağ Kopması
+## Hastalık: Ön Çapraz Bağ Kopması
 Belirtiler: Dizde kopma sesi, ani şişlik, boşluğa basma hissi.
 Protokol: Şişlik varsa; kaza anında "çıt" sesi duydu mu sor. Duyduysa Ön Çapraz Bağ tanısı koy.
 
-Hastalık: Donuk Omuz
+## Hastalık: Donuk Omuz
 Belirtiler: Omuzda şiddetli hareket kısıtlılığı, gece ağrısı.
 Protokol: Hareket kısıtlıysa; kolunu arkaya götürebiliyor mu sor. Götüremiyorsa Donuk Omuz tanısı koy.
 
-Hastalık: Tetik Parmak
+## Hastalık: Tetik Parmak
 Belirtiler: Parmağın bükülü kalması, açılırken takılması.
 Protokol: Takılma varsa; parmak kökünde ağrı var mı sor. Varsa Tetik Parmak tanısı koy.
 
-Hastalık: Hallux Valgus (Başparmak Çıkıntısı)
+## Hastalık: Hallux Valgus (Başparmak Çıkıntısı)
 Belirtiler: Ayak başparmak kökünde kemik çıkıntısı ve ağrı.
 Protokol: Çıkıntı varsa; dar ayakkabı giyince artıyor mu sor. Artıyorsa Hallux Valgus tanısı koy.
 
-Hastalık: Osteoporoz (Kemik Erimesi)
+## Hastalık: Osteoporoz (Kemik Erimesi)
 Belirtiler: Boy kısalması, basit düşmelerle oluşan kırıklar.
 Protokol: Kırık varsa; yaşını ve boyunda kısalma olup olmadığını sor. Varsa Osteoporoz tanısı koy.
 
-Hastalık: Aşil Tendiniti
+## Hastalık: Aşil Tendiniti
 Belirtiler: Topuk üzerinde, aşil tendonunda ağrı ve sertlik.
 Protokol: Topuk arkasında ağrı varsa; parmak ucuna kalkınca artıyor mu sor. Artıyorsa Aşil Tendiniti tanısı koy.
 
-Hastalık: Bursit (Eklem Kesesi İltihabı)
+## Hastalık: Bursit (Eklem Kesesi İltihabı)
 Belirtiler: Eklemde hassas şişlik, hareketle artan ağrı.
 Protokol: Şişlik varsa; o bölge sıcak ve kızarık mı sor. Öyleyse Bursit tanısı koy.
 
-Hastalık: Paget Hastalığı
+## Hastalık: Paget Hastalığı
 Belirtiler: Kemiklerde şekil bozukluğu, işitme kaybı, eklem ağrısı.
 Protokol: Şekil bozukluğu varsa; kafa kemiklerinde büyüme hissediyor mu sor. Varsa Paget tanısı koy.
 
-Hastalık: Kifoz (Kamburluk)
+## Hastalık: Kifoz (Kamburluk)
 Belirtiler: Sırtta belirgin dışa eğrilik, sırt ağrısı.
 Protokol: Kamburluk varsa; ağrının sırt ortasında olup olmadığını sor. Varsa Kifoz tanısı koy.
 
-Hastalık: Lordoz (Bel Çukurluğu)
+## Hastalık: Lordoz (Bel Çukurluğu)
 Belirtiler: Bel çukurunun aşırı derin olması, kalçanın dışa çıkık durması.
 Protokol: Belde boşluk varsa; sırtüstü yatınca belin yere değip değmediğini sor. Değmiyorsa Lordoz tanısı koy.
 
-Hastalık: Siyatik
+## Hastalık: Siyatik
 Belirtiler: Belden topuğa kadar inen elektriklenme ve ağrı.
 Protokol: Ağrı varsa; öksürünce bacağında şimşek çakıyor mu sor. Varsa Siyatik tanısı koy.
 
-Hastalık: Osteoartrit (Kireçlenme)
+## Hastalık: Osteoartrit (Kireçlenme)
 Belirtiler: Sabah eklemlerde 30 dakikadan kısa süren sertlik, çıtırtı sesi.
 Protokol: Hareketle ağrı artıyorsa; eklemlerden ses geliyor mu sor. Geliyorsa Kireçlenme tanısı koy.
 
-Hastalık: Romatoid Artrit
+## Hastalık: Romatoid Artrit
 Belirtiler: El eklemlerinde sabah 1 saatten uzun süren sertlik, şişlik.
 Protokol: Sertlik varsa; her iki elinde de aynı eklemler mi şiş sor. Simetrik şişlik varsa Romatoid Artrit tanısı koy.
 
-Hastalık: Ganglion Kisti
+## Hastalık: Ganglion Kisti
 Belirtiler: El bileğinde ağrısız, yumuşak şişlik.
 Protokol: Şişlik varsa; elini hareket ettirdikçe boyutu değişiyor mu sor. Değişiyorsa Ganglion Kisti tanısı koy.
 
-KBB 
-Hastalık: Akut Otitis Media (Orta Kulak İltihabı)
+# KBB 
+
+## Hastalık: Akut Otitis Media (Orta Kulak İltihabı)
 Belirtiler: Kulak ağrısı, işitme kaybı, kulakta dolgunluk.
 Protokol: Ağrı varsa; kulaktan akıntı geliyor mu sor. Geliyorsa Orta Kulak İltihabı tanısı koy.
 
-Hastalık: Vertigo (BPPV)
+## Hastalık: Vertigo (BPPV)
 Belirtiler: Baş dönmesi, mide bulantısı, yerin ayağının altından kayması.
 Protokol: Dönme varsa; yatakta dönerken mi başlıyor sor. Saniyeler sürüyorsa Vertigo tanısı koy.
 
-Hastalık: Deviasyon (Burun Eğriliği)
+## Hastalık: Deviasyon (Burun Eğriliği)
 Belirtiler: Tek taraflı burun tıkanıklığı, horlama, ağız kuruluğu.
 Protokol: Tıkanıklık varsa; hep aynı taraf mı tıkalı sor. Öyleyse Deviasyon tanısı koy.
 
-Hastalık: Tonsillit (Bademcik İltihabı)
+## Hastalık: Tonsillit (Bademcik İltihabı)
 Belirtiler: Boğaz ağrısı, ateş, bademciklerde beyaz lekeler.
 Protokol: Boğaz ağrısı varsa; aynada beyaz lekeler görüyor mu sor. Varsa Tonsillit tanısı koy.
 
-Hastalık: Larenjit (Ses Teli İltihabı)
+## Hastalık: Larenjit (Ses Teli İltihabı)
 Belirtiler: Ses kısıklığı, konuşurken ağrı, boğazda gıcık.
 Protokol: Ses kısık ise; son günlerde çok bağırdı mı veya grip mi sor. Varsa Larenjit tanısı koy.
 
-Hastalık: Faranjit
+## Hastalık: Faranjit
 Belirtiler: Boğazda yanma, yutkunurken takılma hissi, kuru öksürük.
 Protokol: Yanma varsa; ateş olup olmadığını sor. Ateş yok ama yanma varsa Faranjit tanısı koy.
 
-Hastalık: Kulak Çınlaması (Tinnitus)
+## Hastalık: Kulak Çınlaması (Tinnitus)
 Belirtiler: Kulakta çınlama, uğultu veya rüzgar sesi.
 Protokol: Ses duyuyorsa; yüksek sese maruz kaldı mı sor. Sürekliyse Tinnitus tanısı koy.
 
-Hastalık: Sinüzit
+## Hastalık: Sinüzit
 Belirtiler: Alında baskı, sarı burun akıntısı, öne eğilince artan ağrı.
 Protokol: Baş ağrısı varsa; öne eğilince zonklama oluyor mu sor. Oluyorsa Sinüzit tanısı koy.
 
-Hastalık: Meniere Hastalığı
+## Hastalık: Meniere Hastalığı
 Belirtiler: Ataklar halinde baş dönmesi, çınlama ve işitme kaybı.
 Protokol: Dönme varsa; beraberinde kulakta dolgunluk var mı sor. Varsa Meniere tanısı koy.
 
-Hastalık: Burun Kanaması (Epistaksis)
+## Hastalık: Burun Kanaması (Epistaksis)
 Belirtiler: Burundan aktif kan gelmesi.
 Protokol: Kanama varsa; tansiyonu yüksek mi veya burnunu darbe aldı mı sor. Nedenine göre Epistaksis tanısı koy.
 
-Hastalık: Ses Teli Polibi
+## Hastalık: Ses Teli Polibi
 Belirtiler: Uzun süreli ses kısıklığı, sesin çatallanması.
 Protokol: Ses kısıklığı 2 haftadan uzunsa; sigara içiyor mu sor. Varsa Ses Teli Polibi tanısı koy.
 
-Hastalık: Uyku Apnesi
+## Hastalık: Uyku Apnesi
 Belirtiler: Horlama, gece nefes durması, gündüz aşırı uyku hali.
 Protokol: Horlama varsa; sabah yorgun uyanıyor mu sor. Uyanıyorsa Uyku Apnesi tanısı koy.
 
-Hastalık: Saman Nezlesi (Alerjik Rinit)
+## Hastalık: Saman Nezlesi (Alerjik Rinit)
 Belirtiler: Hapşırma nöbetleri, gözlerde sulanma, burun kaşıntısı.
 Protokol: Hapşırma varsa; polen veya tozlu ortamda mı artıyor sor. Varsa Saman Nezlesi tanısı koy.
 
-Hastalık: Tükürük Bezi Taşı
+## Hastalık: Tükürük Bezi Taşı
 Belirtiler: Yemek yerken çene altında şişlik ve ağrı.
 Protokol: Şişlik varsa; yemek bittikten sonra iniyor mu sor. İniyorsa Tükürük Bezi Taşı tanısı koy.
 
-Hastalık: İşitme Kaybı (Sensörinöral)
+## Hastalık: İşitme Kaybı (Sensörinöral)
 Belirtiler: Konuşulanları anlamama, televizyon sesini çok açma.
 Protokol: Duyma azsa; gürültülü ortamda anlamakta zorlanıyor mu sor. Zorlanıyorsa İşitme Kaybı tanısı koy.
 
-Hastalık: Nazal Polip
+## Hastalık: Nazal Polip
 Belirtiler: Burun içinde et büyümesi, koku alamama.
 Protokol: Tıkanıklık varsa; koku alabiliyor mu sor. Alamıyorsa Nazal Polip tanısı koy.
 
-Hastalık: Boyun Kisti
+## Hastalık: Boyun Kisti
 Belirtiler: Boyunda doğuştan gelen veya sonradan oluşan şişlik.
 Protokol: Şişlik varsa; yutkununca hareket ediyor mu sor. Ediyorsa Boyun Kisti tanısı koy.
 
-Hastalık: Kolesteatom
+## Hastalık: Kolesteatom
 Belirtiler: Kötü kokulu kulak akıntısı, işitme kaybı.
 Protokol: Akıntı varsa; kokusu çok ağır mı sor. Öyleyse Kolesteatom tanısı koy.
 
-Hastalık: Eksternal Otit (Yüzücü Kulağı)
+## Hastalık: Eksternal Otit (Yüzücü Kulağı)
 Belirtiler: Dış kulak yolunda ağrı, kulağa dokununca şiddetli sızı.
 Protokol: Kulak ağrısı varsa; kulak memesini çekince ağrı artıyor mu sor. Artıyorsa Eksternal Otit tanısı koy.
 
-Hastalık: Gastroözofageal Reflü kaynaklı boğaz ağrısı
+## Hastalık: Gastroözofageal Reflü kaynaklı boğaz ağrısı
 Belirtiler: Sabahları boğazda acı tat, ses kısıklığı, kronik öksürük.
 Protokol: Boğaz ağrısı varsa; mide yanması da eşlik ediyor mu sor. Varsa Reflü kaynaklı boğaz ağrısı tanısı koy.

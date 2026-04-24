@@ -1,61 +1,44 @@
 import os
 from langchain_ollama import ChatOllama, OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
-from langchain_community.document_loaders import TextLoader
-from langchain_text_splitters import CharacterTextSplitter
-# 2026 v1.x standartları: Artık chains modülüne ihtiyacımız yok!
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
-
-# 1. VERİ YÜKLEME VE İŞLEME
-loader = TextLoader("hastaliklar.txt", encoding="utf-8")
-documents = loader.load()
-text_splitter = CharacterTextSplitter(chunk_size=600, chunk_overlap=100)
-texts = text_splitter.split_documents(documents)
-
-# 2. YEREL VE ÜCRETSİZ BEYİN (Ollama)
+print("başlıyor...")
+# 1. HAFIZAYI YÜKLE (Mevcut chroma_db klasörünü okuyoruz)
 embeddings = OllamaEmbeddings(
-    model="llama3",
+    model="nomic-embed-text",
     base_url="http://host.docker.internal:11434"
 )
-persist_directory = "./chroma_db" # Veritabanının kaydedileceği klasör
+persist_directory = "./chroma_db"
 
-if os.path.exists(persist_directory):
-    # Eğer klasör varsa baştan oluşturma, kayıtlı olanı yükle
-    vectorstore = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
-else:
-    # İlk çalıştırmada oluştur ve kaydet
-    vectorstore = Chroma.from_documents(texts, embeddings, persist_directory=persist_directory)
-# Veri getirme mekanizması (retriever)
-retriever = vectorstore.as_retriever()
+# Veritabanını baştan oluşturmuyoruz, sadece bağlanıyoruz
+vectorstore = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
+retriever = vectorstore.as_retriever(search_kwargs={"k": 3}) # En alakalı 3 hastalığı getir
 
-# 3. ÖZEL SİSTEM TALİMATI (Prompt Engineering)
+# 2. SİSTEM TALİMATI (Personas)
 sablon = """
-Sen profesyonel bir Klinik Asistanısın. Aşağıdaki bilgilere göre hareket et:
+Sen profesyonel bir Klinik Asistanısın. Aşağıdaki tıbbi protokol metnine bağlı kalarak yanıt ver:
 {context}
 
-KURAL: 
-1. Eğer hastanın verdiği bilgiler metindeki 'Protokol' kısmındaki şartları tam karşılamıyorsa, kesinlikle tanı koyma ve eksik bilgiyi öğrenmek için 'Protokol'deki soruyu sor.
-2. Eğer hasta tüm şartları sağlıyorsa, tanıyı koy ve nedenini açıkla.
-3. Ne olursa olsun HER ZAMAN Türkçe dilinde konuş ve yanıt ver.
-
+Kritik Kurallar:
+1. Eğer hastanın şikayeti protokoldeki 'Belirtiler' ile uyuşuyorsa, hemen tanı koyma! Önce 'Protokol' kısmındaki soruyu sor.
+2. Eğer hasta protokoldeki tüm şartları sağlıyorsa (sorularına 'evet' cevabı verdiyse), o zaman tanıyı koy.
+3. Eğer bilgi metinde yoksa, 'Bu konuda bilgim yok, lütfen bir uzmana danışın' de.
+4. HER ZAMAN Türkçe yanıt ver.
 
 Hasta Mesajı: {question}
 Asistan Yanıtı:"""
 
 PROMPT = ChatPromptTemplate.from_template(sablon)
 
-# 4. SİSTEMİ BİRLEŞTİRME (LCEL Yapısı)
-# Bu yapı doğrudan kütüphane bağımlılığı hatalarını baypas eder.
+# 3. ZİNCİRİ KUR (LCEL Yapısı)
 llm = ChatOllama(
     model="llama3", 
-    temperature=0.1,
+    temperature=0.1, # Daha tutarlı ve ciddi cevaplar için düşük sıcaklık
     base_url="http://host.docker.internal:11434"
 ) 
 
-# Modern Zincirleme: Girdiyi al -> Dokümanı bul -> Prompta yerleştir -> LLM'e gönder -> Metne çevir
-# Değişken ismini 'qa_chain' olarak koruyoruz.
 qa_chain = (
     {"context": retriever, "question": RunnablePassthrough()}
     | PROMPT
@@ -63,12 +46,11 @@ qa_chain = (
     | StrOutputParser()
 )
 
-# 5. ÇALIŞTIRMA DÖNGÜSÜ
-print("\n--- Klinik Asistan Sistem-Başlatıldı (Modern LCEL Modu) ---")
+# 4. ÇALIŞTIRMA
+print("\n--- Klinik Asistan Sistem-Başlatıldı ---")
 while True:
-    query = input("Şikayetini yaz: ")
+    query = input("Şikayetiniz nedir? (Çıkmak için 'exit'): ")
     if query.lower() in ["çıkış", "exit"]: break
     
-    # LCEL doğrudan string döndürdüğü için 'answer' anahtarına gerek kalmaz
     result = qa_chain.invoke(query)
     print(f"\nAsistan: {result}\n")
