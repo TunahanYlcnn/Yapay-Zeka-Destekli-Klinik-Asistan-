@@ -1,7 +1,8 @@
 # Dosya İsmi: test.py
 
 from langchain_chroma import Chroma
-from langchain_community.embeddings import HuggingFaceEmbeddings # YENİ EKLENDİ
+# Sistem-Güncelleme: Kütüphane uyarısını kaldırmak için en güncel paket eklendi
+from langchain_huggingface import HuggingFaceEmbeddings 
 
 print("Sistem-Gözlem-Ayarları: Test başlatılıyor...")
 

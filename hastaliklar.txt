@@ -2,326 +2,406 @@
 
 ## Hastalık: Böbrek Taşı (Nefrolitiazis)
 Belirtiler: Şiddetli yan ağrısı (kolik), mide bulantısı, idrarda kan.
+Anahtar Kelimeler: böbrek taşı, yan ağrısı, kolik, idrarda kan, kum dökme, nefrolitiazis.
 Protokol: Hasta yan ağrısı diyorsa; ağrının kasıklara vurup vurmadığını ve idrar rengini sor. Kasıklara vuruyorsa Böbrek Taşı tanısı koy.
 
 ## Hastalık: Benign Prostat Hiperplazisi (BPH)
 Belirtiler: Kesik kesik idrar, gece sık idrara çıkma, idrar torbasının tam boşalmaması.
+Anahtar Kelimeler: prostat büyümesi, idrar zorluğu, gece idrarı, kesik idrar, yaşlılık, BPH.
 Protokol: İdrar yapma zorluğu varsa; hastanın yaşını ve gece kaç kez kalktığını sor. Yaş 50+ ve gece 2+ kalkış varsa BPH tanısı koy.
 
 ## Hastalık: Sistit (İdrar Kesisi İltihabı)
 Belirtiler: İdrar yaparken yanma, sık idrar hissi, alt karın ağrısı.
+Anahtar Kelimeler: idrar yolu enfeksiyonu, yanma, sık idrar, sistit, mesane iltihabı.
 Protokol: Yanma varsa; ateş olup olmadığını sor. Ateş yoksa ve sadece yanma/sık idrar varsa Sistit tanısı koy.
 
 ## Hastalık: Varikosel
 Belirtiler: Testislerde ağrı, şişlik, damarlı görünüm.
+Anahtar Kelimeler: damar genişlemesi, testis ağrısı, kısırlık, damarlı yapı, varikosel.
 Protokol: Testis ağrısı varsa; ayakta durunca ağrının artıp artmadığını sor. Damarlı yapı varsa Varikosel tanısı koy.
 
 ## Hastalık: Prostatit (Prostat İltihabı)
 Belirtiler: Pelvik ağrı, idrarda yanma, ateş, boşalma sırasında ağrı.
+Anahtar Kelimeler: prostat iltihabı, pelvik ağrı, boşalma ağrısı, ateş, prostatit.
 Protokol: Pelvik ağrı varsa; ateş ve boşalma ağrısı durumunu sor. Her ikisi varsa Prostatit tanısı koy.
 
 ## Hastalık: Hidrosel (Testis Torbasında Sıvı)
 Belirtiler: Testis torbasında ağrısız şişlik, ağırlık hissi.
+Anahtar Kelimeler: testis torbasında sıvı, torba şişliği, ağrısız şişlik, su fıtığı, hidrosel.
 Protokol: Şişlik varsa; ağrı olup olmadığını sor. Ağrı yoksa ama şişlik varsa Hidrosel tanısı koy.
 
 ## Hastalık: Üretra Darlığı
 Belirtiler: İdrar akım hızında azalma, çatallı idrar yapma.
+Anahtar Kelimeler: idrar yolu darlığı, çatallı idrar, akış hızı, üretra, sonda geçmişi.
 Protokol: Akış hızı düşükse; geçmişte travma veya sonda kullanımı olup olmadığını sor. Varsa Üretra Darlığı tanısı koy.
 
 ## Hastalık: Mesane Kanseri
 Belirtiler: Ağrısız idrarda kan gelmesi, sık idrara çıkma.
+Anahtar Kelimeler: mesane tümörü, ağrısız kanama, idrarda kan, mesane kanseri, tümör.
 Protokol: Kanama varsa; ağrı olup olmadığını sor. Ağrısız kanama varsa Mesane Kanseri şüphesiyle doktora yönlendir.
 
 ## Hastalık: İnmemiş Testis
 Belirtiler: Testis torbasında testislerden birinin veya ikisinin hissedilmemesi.
+Anahtar Kelimeler: boş torba, inmemiş testis, çocuk ürolojisi, testis yokluğu.
 Protokol: Torbada boşluk varsa; çocuğun yaşını sor. Doğumdan beri varsa İnmemiş Testis tanısı koy.
 
 ## Hastalık: Aşırı Aktif Mesane
 Belirtiler: Ani sıkışma hissi, yetişemeden idrar kaçırma.
+Anahtar Kelimeler: idrar kaçırma, sıkışma hissi, alt ıslatma, aşırı aktif mesane.
 Protokol: Sıkışma varsa; günde kaç kez tuvalete gittiğini sor. 8'den fazlaysa Aşırı Aktif Mesane tanısı koy.
 
 ## Hastalık: Epididimit
 Belirtiler: Testiste şişlik, kızarıklık, yüksek ateş.
+Anahtar Kelimeler: testis iltihabı, testis kızarıklığı, yüksek ateş, şişlik, epididimit.
 Protokol: Şişlik ve kızarıklık varsa; ateş olup olmadığını sor. Ateş varsa Epididimit tanısı koy.
 
 ## Hastalık: Orşit (Testis İltihabı)
 Belirtiler: Testis ağrısı, kabakulak geçmişi, yüksek ateş.
+Anahtar Kelimeler: testis ağrısı, kabakulak komplikasyonu, ani ağrı, ateş, orşit.
 Protokol: Ani ağrı varsa; yakın zamanda kabakulak geçirip geçirmediğini sor. Varsa Orşit tanısı koy.
 
 ## Hastalık: Mesane Taşı
 Belirtiler: İdrarın aniden kesilmesi, peniste ağrı, idrarda kan.
+Anahtar Kelimeler: mesane taşı, idrar kesilmesi, peniste ağrı, mesane.
 Protokol: İdrar kesiliyorsa; hareket edince idrarın tekrar gelip gelmediğini sor. Geliyorsa Mesane Taşı tanısı koy.
 
 ## Hastalık: Piyelonefrit (Böbrek İltihabı)
 Belirtiler: Yüksek ateş, titreme, sırt ağrısı, kusma.
+Anahtar Kelimeler: böbrek enfeksiyonu, yüksek ateş, sırt ağrısı, böbrek iltihabı, piyelonefrit.
 Protokol: Sırt ağrısı ve ateş varsa; idrar yaparken yanma olup olmadığını sor. Yanma eşlik ediyorsa Piyelonefrit tanısı koy.
 
 ## Hastalık: Üreterosel
 Belirtiler: Tekrarlayan idrar yolu enfeksiyonu, yan ağrısı.
+Anahtar Kelimeler: sürekli enfeksiyon, üreter şişmesi, kistik yapı, üreterosel.
 Protokol: Sürekli enfeksiyon varsa; ultrason bulgusu sor. Mesane içinde balonlaşma varsa Üreterosel tanısı koy.
 
 ## Hastalık: Hipospadias (Peygamber Sünneti)
 Belirtiler: İdrar deliğinin penisin altında olması.
+Anahtar Kelimeler: idrar deliği hatası, altta delik, peygamber sünneti, hipospadias.
 Protokol: Delik yerinde değilse; deliğin tam olarak nerede olduğunu sor. Alt kısımdaysa Hipospadias tanısı koy.
 
 ## Hastalık: Epispadias
 Belirtiler: İdrar deliğinin penisin üstünde olması.
+Anahtar Kelimeler: üstte delik, delik yerinde değil, epispadias.
 Protokol: Delik yerinde değilse; üst kısımda olup olmadığını sor. Üstteyse Epispadias tanısı koy.
 
 ## Hastalık: Nörojen Mesane
 Belirtiler: İdrar yapamama veya kontrolsüz kaçırma, omurga yaralanması geçmişi.
+Anahtar Kelimeler: sinirsel mesane, felç sonrası idrar, kontrol kaybı, nörojen mesane.
 Protokol: Kontrol kaybı varsa; bel fıtığı veya kaza geçmişi sor. Varsa Nörojen Mesane tanısı koy.
 
 ## Hastalık: Renal Arter Stenozu
 Belirtiler: İlaçla düşmeyen yüksek tansiyon, böbrek ağrısı.
+Anahtar Kelimeler: böbrek damar darlığı, dirençli tansiyon, yüksek tansiyon, renal arter.
 Protokol: Tansiyon düşmüyorsa; aile öyküsünü sor. Dirençli tansiyon varsa Renal Arter Stenozu tanısı koy.
 
 ## Hastalık: Spermatoosel (Sperm Kisti)
 Belirtiler: Testis üzerinde küçük, ağrısız kitle.
+Anahtar Kelimeler: sperm kisti, ağrısız kitle, testis üzerinde yumru, spermatoosel.
 Protokol: Kitle varsa; ağrı olup olmadığını sor. Ağrısız ve nohut büyüklüğündeyse Spermatoosel tanısı koy.
 
 # NEFROLOJİ 
 
 ## Hastalık: Kronik Böbrek Yetmezliği
 Belirtiler: Ayak bileklerinde ödem, halsizlik, idrar miktarında azalma.
+Anahtar Kelimeler: böbrek yetmezliği, ödem, ayak bileği şişliği, idrar azlığı, kreatinin, kronik böbrek.
 Protokol: Şişlik varsa; tansiyon veya şeker geçmişi sor. Varsa ve idrar azsa Böbrek Yetmezliği tanısı koy.
 
 ## Hastalık: Nefrotik Sendrom
 Belirtiler: Göz çevresinde şişlik, köpüklü idrar, hızlı kilo artışı.
+Anahtar Kelimeler: protein kaçağı, köpüklü idrar, göz şişliği, proteinüri, nefrotik sendrom.
 Protokol: Köpüklü idrar varsa; sabahları göz kapağı şişliği olup olmadığını sor. Varsa Nefrotik Sendrom tanısı koy.
 
 ## Hastalık: Glomerulonefrit
 Belirtiler: Çay rengi idrar, yüksek tansiyon, yüz ödemi.
+Anahtar Kelimeler: çay rengi idrar, koyu idrar, böbrek filtresi iltihabı, glomerulonefrit, boğaz enfeksiyonu sonrası.
 Protokol: İdrar koyuysa; son 2 haftada boğaz enfeksiyonu sor. Varsa Glomerulonefrit tanısı koy.
 
 ## Hastalık: Polikistik Böbrek Hastalığı
 Belirtiler: Karında büyüme, yan ağrısı, ailede böbrek hastalığı.
+Anahtar Kelimeler: böbrek kisti, ailevi böbrek hastalığı, kistik böbrek, polikistik.
 Protokol: Yan ağrısı varsa; ailede kist geçmişi sor. Varsa Polikistik Böbrek tanısı koy.
 
 ## Hastalık: Alport Sendromu
 Belirtiler: İdrarda kan, işitme kaybı, görme sorunları.
+Anahtar Kelimeler: idrarda kan, işitme kaybı, kulak ve böbrek, genetik hastalık, Alport.
 Protokol: Kanama varsa; duyma kaybı olup olmadığını sor. Varsa Alport Sendromu tanısı koy.
 
 ## Hastalık: Lupus Nefriti
 Belirtiler: Yüzde kelebek tarzı kızarıklık, idrarda protein kaçağı, eklem ağrısı.
+Anahtar Kelimeler: Lupus, kelebek kızarıklığı, idrarda protein, eklem ağrısı, böbrek lupusu.
 Protokol: Kızarıklık ve eklem ağrısı varsa; idrarda köpürme sor. Varsa Lupus Nefriti tanısı koy.
 
 ## Hastalık: İyi Huylu Hematüri
 Belirtiler: İdrarda kan, ancak ağrı veya başka belirti yok.
+Anahtar Kelimeler: ağrısız idrarda kan, masum kanama, semptomsuz hematüri.
 Protokol: Kanama varsa; ağrı veya şişlik sor. Hiçbir ek belirti yoksa İyi Huylu Hematüri tanısı koy.
 
 ## Hastalık: Diyabetik Nefropati
 Belirtiler: Uzun süreli şeker hastalığı, idrarda protein, yüksek tansiyon.
+Anahtar Kelimeler: şeker hastalığı böbrek, diyabet, protein kaçağı, böbrek harabiyeti.
 Protokol: Şeker hastasıysa; idrar testi sonucunda protein olup olmadığını sor. Varsa Diyabetik Nefropati tanısı koy.
 
 ## Hastalık: Amiloidoz
 Belirtiler: Kalp yetmezliği bulguları, dilde büyüme, böbrek sorunları.
+Anahtar Kelimeler: dil büyümesi, protein birikimi, sistemik hastalık, amiloidoz.
 Protokol: Dil büyüklüğü ve protein kaçağı varsa; Amiloidoz şüphesiyle biyopsi öner.
 
 ## Hastalık: Renal Tübüler Asidoz
 Belirtiler: Kas güçsüzlüğü, kemik ağrısı, büyüme geriliği.
+Anahtar Kelimeler: asidoz, kan asitliği, kemik ağrısı, kas güçsüzlüğü, renal tübüler.
 Protokol: Kas güçsüzlüğü varsa; kan tahlilinde asitlik oranını sor. Yüksekse Renal Tübüler Asidoz tanısı koy.
 
 ## Hastalık: Fanconi Sendromu
 Belirtiler: Kemik erimesi, çok idrar yapma, kas krampları.
+Anahtar Kelimeler: glukoz kaçağı, kas krampları, çok idrar, kemik erimesi, Fanconi.
 Protokol: Kramplar ve çok idrar varsa; glukoz kaçağı olup olmadığını sor. Varsa Fanconi Sendromu tanısı koy.
 
 ## Hastalık: Renal Enfarktüs
 Belirtiler: Ani ve şiddetli yan ağrısı, kanlı idrar, taş yokluğu.
+Anahtar Kelimeler: böbrek krizi, böbrek enfarktüsü, ani yan ağrısı, kanlı idrar, taşsız ağrı.
 Protokol: Ağrı varsa; taş olup olmadığına bakıldı mı diye sor. Taş yok ama ağrı şiddetliyse Renal Enfarktüs tanısı koy.
 
 ## Hastalık: Hiponatremi (Sodyum Düşüklüğü)
 Belirtiler: Kafa karışıklığı, nöbet, kas krampları, baş ağrısı.
+Anahtar Kelimeler: sodyum eksikliği, kafa karışıklığı, tuz kaybı, nöbet, hiponatremi.
 Protokol: Kafa karışıklığı varsa; çok su içip içmediğini veya tuz kısıtlamasını sor. Varsa Hiponatremi tanısı koy.
 
 ## Hastalık: Hiperkalemi (Potasyum Yüksekliği)
 Belirtiler: Kalp çarpıntısı, göğüs ağrısı, kas felci.
+Anahtar Kelimeler: yüksek potasyum, kalp çarpıntısı, göğüs ağrısı, tehlikeli potasyum, hiperkalemi.
 Protokol: Çarpıntı varsa; potasyum değeri sor. 5.5 üzerindeyse Hiperkalemi tanısı koy.
 
 ## Hastalık: Goodpasture Sendromu
 Belirtiler: Kanlı öksürük, nefes darlığı, kanlı idrar.
+Anahtar Kelimeler: kanlı öksürük, akciğer ve böbrek, nefes darlığı, Goodpasture.
 Protokol: Öksürükle kan geliyorsa; idrar rengini sor. İdrarda da kan varsa Goodpasture Sendromu tanısı koy.
 
 ## Hastalık: IgA Nefropatisi
 Belirtiler: Üst solunum yolu enfeksiyonu sırasında idrarda kan gelmesi.
+Anahtar Kelimeler: Berger hastalığı, grip sonrası kanlı idrar, IgA, üst solunum yolu.
 Protokol: Kanama varsa; şu an grip veya nezle olup olmadığını sor. Varsa IgA Nefropatisi tanısı koy.
 
 ## Hastalık: Wegener Granülomatozu
 Belirtiler: Burun kanaması, öksürük, böbrek yetmezliği bulguları.
+Anahtar Kelimeler: Wegener, burun kanaması, damar iltihabı, vaskülit, böbrek yetmezliği.
 Protokol: Burun ve akciğer sorunu varsa; böbrek değerlerini sor. Yüksekse Wegener tanısı koy.
 
 ## Hastalık: Üremik Sendrom
 Belirtiler: Ciltte kaşıntı, ağızda metalik tat, iştahsızlık.
+Anahtar Kelimeler: kanda üre, metalik tat, cilt kaşıntısı, iştahsızlık, üremi.
 Protokol: Metalik tat ve kaşıntı varsa; üre değerini sor. Çok yüksekse Üremik Sendrom tanısı koy.
 
 ## Hastalık: İnce Bazal Membran Hastalığı
 Belirtiler: Sürekli idrarda kan, ancak böbrek fonksiyonları normal.
+Anahtar Kelimeler: sürekli hematüri, ince membran, masum kanlı idrar, genetik kanama.
 Protokol: Kanama geçmiyorsa; ailede benzer durum sor. Fonksiyonlar normalse İnce Bazal Membran tanısı koy.
 
 ## Hastalık: Medüller Sünger Böbrek
 Belirtiler: Tekrarlayan böbrek taşları, idrar yolu enfeksiyonu.
+Anahtar Kelimeler: sürekli böbrek taşı, sünger böbrek, medüller, kist.
 Protokol: Sürekli taş düşürüyorsa; görüntülemede böbrekte kistler olup olmadığını sor. Varsa Sünger Böbrek tanısı koy.
 
 # ORTOPEDİ 
 
 ## Hastalık: Bel Fıtığı (Lomber Disk Hernisi)
 Belirtiler: Bel ağrısı, bacağa yayılan uyuşma, güç kaybı.
+Anahtar Kelimeler: bel fıtığı, bel ağrısı, bacak uyuşması, disk hernisi, siyatik, lumbago.
 Protokol: Ağrı bacağa vuruyorsa; ayak parmak ucunda durabiliyor mu diye sor. Duramıyorsa Bel Fıtığı tanısı koy.
 
 ## Hastalık: Menisküs Yırtığı
 Belirtiler: Dizde kilitlenme, şişlik, merdiven çıkarken ağrı.
+Anahtar Kelimeler: diz kilitlenmesi, diz ağrısı, menisküs, yırtık, diz şişmesi.
 Protokol: Diz ağrısı varsa; ani dönüşlerde takılma oluyor mu sor. Kilitlenme varsa Menisküs tanısı koy.
 
 ## Hastalık: Karpal Tünel Sendromu
 Belirtiler: İlk üç parmakta uyuşma, gece artan el ağrısı.
+Anahtar Kelimeler: el uyuşması, bilek kanal daralması, gece el ağrısı, parmak uyuşması, karpal tünel.
 Protokol: Uyuşma varsa; gece ağrıyla uyanıyor mu sor. Varsa Karpal Tünel tanısı koy.
 
 ## Hastalık: Tenisçi Dirseği (Lateral Epikondilit)
 Belirtiler: Dirseğin dış kısmında ağrı, kavrama güçlüğü.
+Anahtar Kelimeler: dirsek ağrısı, dış dirsek, kavrama zorluğu, tenisçi dirseği, epikondilit.
 Protokol: Dirsek ağrısı varsa; kapı kolu çevirince artıyor mu sor. Artıyorsa Tenisçi Dirseği tanısı koy.
 
 ## Hastalık: Skolyoz
 Belirtiler: Omuz asimetrisi, sırt ağrısı, belde eğrilik.
+Anahtar Kelimeler: omurga eğriliği, omuz dengesizliği, sırt eğriliği, skolyoz, postür bozukluğu.
 Protokol: Eğrilik varsa; öne eğilince bir kürek kemiği daha yüksekte mi diye sor. Varsa Skolyoz tanısı koy.
 
 ## Hastalık: Topuk Dikeni
 Belirtiler: Sabah ilk adımda şiddetli topuk ağrısı.
+Anahtar Kelimeler: topuk ağrısı, sabah ağrısı, ilk adım ağrısı, topuk dikeni, plantar fasiit.
 Protokol: Ağrı varsa; sabah kalkınca mı en şiddetli diye sor. Öyleyse Topuk Dikeni tanısı koy.
 
 ## Hastalık: Ön Çapraz Bağ Kopması
 Belirtiler: Dizde kopma sesi, ani şişlik, boşluğa basma hissi.
+Anahtar Kelimeler: dizde çıt sesi, bağ kopması, ön çapraz bağ, diz boşalması, ani şişlik.
 Protokol: Şişlik varsa; kaza anında "çıt" sesi duydu mu sor. Duyduysa Ön Çapraz Bağ tanısı koy.
 
 ## Hastalık: Donuk Omuz
 Belirtiler: Omuzda şiddetli hareket kısıtlılığı, gece ağrısı.
+Anahtar Kelimeler: omuz kısıtlılığı, kolu kaldıramama, omuz ağrısı, donuk omuz.
 Protokol: Hareket kısıtlıysa; kolunu arkaya götürebiliyor mu sor. Götüremiyorsa Donuk Omuz tanısı koy.
 
 ## Hastalık: Tetik Parmak
 Belirtiler: Parmağın bükülü kalması, açılırken takılması.
+Anahtar Kelimeler: parmak takılması, bükülü parmak, parmak kökü ağrısı, tetik parmak.
 Protokol: Takılma varsa; parmak kökünde ağrı var mı sor. Varsa Tetik Parmak tanısı koy.
 
 ## Hastalık: Hallux Valgus (Başparmak Çıkıntısı)
 Belirtiler: Ayak başparmak kökünde kemik çıkıntısı ve ağrı.
+Anahtar Kelimeler: ayak parmağı çıkıntısı, başparmak eğriliği, ayak kemiği, halluks valgus.
 Protokol: Çıkıntı varsa; dar ayakkabı giyince artıyor mu sor. Artıyorsa Hallux Valgus tanısı koy.
 
 ## Hastalık: Osteoporoz (Kemik Erimesi)
 Belirtiler: Boy kısalması, basit düşmelerle oluşan kırıklar.
+Anahtar Kelimeler: kemik erimesi, kemik zayıflığı, boy kısalması, osteoporoz, kırık.
 Protokol: Kırık varsa; yaşını ve boyunda kısalma olup olmadığını sor. Varsa Osteoporoz tanısı koy.
 
 ## Hastalık: Aşil Tendiniti
 Belirtiler: Topuk üzerinde, aşil tendonunda ağrı ve sertlik.
+Anahtar Kelimeler: topuk arkası ağrı, aşil tendonu, tendon sertliği, aşil tendiniti.
 Protokol: Topuk arkasında ağrı varsa; parmak ucuna kalkınca artıyor mu sor. Artıyorsa Aşil Tendiniti tanısı koy.
 
 ## Hastalık: Bursit (Eklem Kesesi İltihabı)
 Belirtiler: Eklemde hassas şişlik, hareketle artan ağrı.
+Anahtar Kelimeler: eklem şişliği, kese iltihabı, kızarık şişlik, bursit.
 Protokol: Şişlik varsa; o bölge sıcak ve kızarık mı sor. Öyleyse Bursit tanısı koy.
 
 ## Hastalık: Paget Hastalığı
 Belirtiler: Kemiklerde şekil bozukluğu, işitme kaybı, eklem ağrısı.
+Anahtar Kelimeler: kemik bozukluğu, kafa kemiği büyümesi, kemik deformitesi, Paget.
 Protokol: Şekil bozukluğu varsa; kafa kemiklerinde büyüme hissediyor mu sor. Varsa Paget tanısı koy.
 
 ## Hastalık: Kifoz (Kamburluk)
 Belirtiler: Sırtta belirgin dışa eğrilik, sırt ağrısı.
+Anahtar Kelimeler: kamburluk, sırt eğriliği, dışa eğrilik, kifoz.
 Protokol: Kamburluk varsa; ağrının sırt ortasında olup olmadığını sor. Varsa Kifoz tanısı koy.
 
 ## Hastalık: Lordoz (Bel Çukurluğu)
 Belirtiler: Bel çukurunun aşırı derin olması, kalçanın dışa çıkık durması.
+Anahtar Kelimeler: bel çukuru, derin bel, lordoz.
 Protokol: Belde boşluk varsa; sırtüstü yatınca belin yere değip değmediğini sor. Değmiyorsa Lordoz tanısı koy.
 
 ## Hastalık: Siyatik
 Belirtiler: Belden topuğa kadar inen elektriklenme ve ağrı.
+Anahtar Kelimeler: siyatik sinir, elektriklenme ağrısı, bacak ağrısı, sinir sıkışması.
 Protokol: Ağrı varsa; öksürünce bacağında şimşek çakıyor mu sor. Varsa Siyatik tanısı koy.
 
 ## Hastalık: Osteoartrit (Kireçlenme)
 Belirtiler: Sabah eklemlerde 30 dakikadan kısa süren sertlik, çıtırtı sesi.
+Anahtar Kelimeler: kireçlenme, eklem sesi, sabah sertliği, yaşlılık eklem ağrısı, osteoartrit.
 Protokol: Hareketle ağrı artıyorsa; eklemlerden ses geliyor mu sor. Geliyorsa Kireçlenme tanısı koy.
 
 ## Hastalık: Romatoid Artrit
 Belirtiler: El eklemlerinde sabah 1 saatten uzun süren sertlik, şişlik.
+Anahtar Kelimeler: iltihaplı eklem romatizması, simetrik şişlik, sabah tutukluğu, romatoid artrit.
 Protokol: Sertlik varsa; her iki elinde de aynı eklemler mi şiş sor. Simetrik şişlik varsa Romatoid Artrit tanısı koy.
 
 ## Hastalık: Ganglion Kisti
 Belirtiler: El bileğinde ağrısız, yumuşak şişlik.
+Anahtar Kelimeler: el bileği kisti, yumuşak şişlik, eklem kisti, ganglion.
 Protokol: Şişlik varsa; elini hareket ettirdikçe boyutu değişiyor mu sor. Değişiyorsa Ganglion Kisti tanısı koy.
 
 # KBB 
 
 ## Hastalık: Akut Otitis Media (Orta Kulak İltihabı)
 Belirtiler: Kulak ağrısı, işitme kaybı, kulakta dolgunluk.
+Anahtar Kelimeler: kulak iltihabı, kulak ağrısı, kulak akıntısı, orta kulak, otitis media.
 Protokol: Ağrı varsa; kulaktan akıntı geliyor mu sor. Geliyorsa Orta Kulak İltihabı tanısı koy.
 
 ## Hastalık: Vertigo (BPPV)
 Belirtiler: Baş dönmesi, mide bulantısı, yerin ayağının altından kayması.
+Anahtar Kelimeler: baş dönmesi, denge kaybı, kristal oynaması, yer kayması, vertigo, BPPV.
 Protokol: Dönme varsa; yatakta dönerken mi başlıyor sor. Saniyeler sürüyorsa Vertigo tanısı koy.
 
 ## Hastalık: Deviasyon (Burun Eğriliği)
 Belirtiler: Tek taraflı burun tıkanıklığı, horlama, ağız kuruluğu.
+Anahtar Kelimeler: burun eğriliği, tıkanıklık, kemik eğriliği, horlama, deviasyon.
 Protokol: Tıkanıklık varsa; hep aynı taraf mı tıkalı sor. Öyleyse Deviasyon tanısı koy.
 
 ## Hastalık: Tonsillit (Bademcik İltihabı)
 Belirtiler: Boğaz ağrısı, ateş, bademciklerde beyaz lekeler.
+Anahtar Kelimeler: bademcik iltihabı, boğaz ağrısı, beyaz leke boğaz, ateş, tonsillit.
 Protokol: Boğaz ağrısı varsa; aynada beyaz lekeler görüyor mu sor. Varsa Tonsillit tanısı koy.
 
 ## Hastalık: Larenjit (Ses Teli İltihabı)
 Belirtiler: Ses kısıklığı, konuşurken ağrı, boğazda gıcık.
+Anahtar Kelimeler: ses kısıklığı, ses teli iltihabı, konuşma ağrısı, larenjit.
 Protokol: Ses kısık ise; son günlerde çok bağırdı mı veya grip mi sor. Varsa Larenjit tanısı koy.
 
 ## Hastalık: Faranjit
 Belirtiler: Boğazda yanma, yutkunurken takılma hissi, kuru öksürük.
+Anahtar Kelimeler: boğaz yanması, yutkunma zorluğu, takılma hissi, kuru öksürük, faranjit.
 Protokol: Yanma varsa; ateş olup olmadığını sor. Ateş yok ama yanma varsa Faranjit tanısı koy.
 
 ## Hastalık: Kulak Çınlaması (Tinnitus)
 Belirtiler: Kulakta çınlama, uğultu veya rüzgar sesi.
+Anahtar Kelimeler: kulak çınlaması, kulak uğultusu, rüzgar sesi, tinnitus.
 Protokol: Ses duyuyorsa; yüksek sese maruz kaldı mı sor. Sürekliyse Tinnitus tanısı koy.
 
 ## Hastalık: Sinüzit
 Belirtiler: Alında baskı, sarı burun akıntısı, öne eğilince artan ağrı.
+Anahtar Kelimeler: yüz ağrısı, alında baskı, burun akıntısı, baş ağrısı, sinüzit.
 Protokol: Baş ağrısı varsa; öne eğilince zonklama oluyor mu sor. Oluyorsa Sinüzit tanısı koy.
 
 ## Hastalık: Meniere Hastalığı
 Belirtiler: Ataklar halinde baş dönmesi, çınlama ve işitme kaybı.
+Anahtar Kelimeler: ataklar baş dönmesi, kulak dolgunluğu, çınlama, işitme kaybı, Meniere.
 Protokol: Dönme varsa; beraberinde kulakta dolgunluk var mı sor. Varsa Meniere tanısı koy.
 
 ## Hastalık: Burun Kanaması (Epistaksis)
 Belirtiler: Burundan aktif kan gelmesi.
+Anahtar Kelimeler: burun kanaması, aktif kanama, epistaksis.
 Protokol: Kanama varsa; tansiyonu yüksek mi veya burnunu darbe aldı mı sor. Nedenine göre Epistaksis tanısı koy.
 
 ## Hastalık: Ses Teli Polibi
 Belirtiler: Uzun süreli ses kısıklığı, sesin çatallanması.
+Anahtar Kelimeler: ses teli polibi, ses kısıklığı, çatallı ses, polip.
 Protokol: Ses kısıklığı 2 haftadan uzunsa; sigara içiyor mu sor. Varsa Ses Teli Polibi tanısı koy.
 
 ## Hastalık: Uyku Apnesi
 Belirtiler: Horlama, gece nefes durması, gündüz aşırı uyku hali.
+Anahtar Kelimeler: uyku apnesi, horlama, nefes durması, yorgun uyanma.
 Protokol: Horlama varsa; sabah yorgun uyanıyor mu sor. Uyanıyorsa Uyku Apnesi tanısı koy.
 
 ## Hastalık: Saman Nezlesi (Alerjik Rinit)
 Belirtiler: Hapşırma nöbetleri, gözlerde sulanma, burun kaşıntısı.
+Anahtar Kelimeler: saman nezlesi, alerjik rinit, polen alerjisi, hapşırma, göz sulanması.
 Protokol: Hapşırma varsa; polen veya tozlu ortamda mı artıyor sor. Varsa Saman Nezlesi tanısı koy.
 
 ## Hastalık: Tükürük Bezi Taşı
 Belirtiler: Yemek yerken çene altında şişlik ve ağrı.
+Anahtar Kelimeler: tükürük bezi taşı, çene şişliği, yemek yerken ağrı.
 Protokol: Şişlik varsa; yemek bittikten sonra iniyor mu sor. İniyorsa Tükürük Bezi Taşı tanısı koy.
 
 ## Hastalık: İşitme Kaybı (Sensörinöral)
 Belirtiler: Konuşulanları anlamama, televizyon sesini çok açma.
+Anahtar Kelimeler: duyma kaybı, sensörinöral işitme kaybı, televizyon sesi, anlamama.
 Protokol: Duyma azsa; gürültülü ortamda anlamakta zorlanıyor mu sor. Zorlanıyorsa İşitme Kaybı tanısı koy.
 
 ## Hastalık: Nazal Polip
 Belirtiler: Burun içinde et büyümesi, koku alamama.
+Anahtar Kelimeler: burun eti, nazal polip, koku kaybı, anozmi.
 Protokol: Tıkanıklık varsa; koku alabiliyor mu sor. Alamıyorsa Nazal Polip tanısı koy.
 
 ## Hastalık: Boyun Kisti
 Belirtiler: Boyunda doğuştan gelen veya sonradan oluşan şişlik.
+Anahtar Kelimeler: boyun kisti, doğuştan şişlik, boyun yumrusu.
 Protokol: Şişlik varsa; yutkununca hareket ediyor mu sor. Ediyorsa Boyun Kisti tanısı koy.
 
 ## Hastalık: Kolesteatom
 Belirtiler: Kötü kokulu kulak akıntısı, işitme kaybı.
+Anahtar Kelimeler: kolesteatom, kokulu kulak akıntısı, kronik orta kulak, işitme kaybı.
 Protokol: Akıntı varsa; kokusu çok ağır mı sor. Öyleyse Kolesteatom tanısı koy.
 
 ## Hastalık: Eksternal Otit (Yüzücü Kulağı)
 Belirtiler: Dış kulak yolunda ağrı, kulağa dokununca şiddetli sızı.
+Anahtar Kelimeler: dış kulak iltihabı, yüzücü kulağı, eksternal otit, kulak sızısı.
 Protokol: Kulak ağrısı varsa; kulak memesini çekince ağrı artıyor mu sor. Artıyorsa Eksternal Otit tanısı koy.
 
 ## Hastalık: Gastroözofageal Reflü kaynaklı boğaz ağrısı
 Belirtiler: Sabahları boğazda acı tat, ses kısıklığı, kronik öksürük.
+Anahtar Kelimeler: mide reflüsü, boğaz ağrısı, acı tat, mide yanması, laringofarengeal reflü.
 Protokol: Boğaz ağrısı varsa; mide yanması da eşlik ediyor mu sor. Varsa Reflü kaynaklı boğaz ağrısı tanısı koy.
