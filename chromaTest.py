@@ -1,12 +1,10 @@
 from langchain_chroma import Chroma
 from langchain_ollama import OllamaEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings 
 
-print("Sistem-Gözlem-Ayarları: Test başlatılıyor...")
-
-# 1. DOĞRU MODELİ AYARLAMA (Kayıt yaparken kullandığımız modelin aynısı olmak ZORUNDA!)
-embeddings = OllamaEmbeddings(
-    model="nomic-embed-text",
-    base_url="http://host.docker.internal:11434"
+# Model aynı olmak ZORUNDA
+embeddings = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 )
 
 # 2. VERİTABANINA BAĞLANMA
@@ -28,13 +26,12 @@ if kayit_sayisi > 0:
         if test_sorusu.lower() == 'q':
             break
         
-        # k=1 diyerek veritabanından en yüksek benzerliğe sahip 1 sonucu getirmesini istiyoruz.
-        sonuclar = vectorstore.similarity_search(test_sorusu, k=3)
+        # k=3 diyerek veritabanından en yüksek benzerliğe sahip 3 sonucu getirmesini istiyoruz.
+        sonuclar = vectorstore.similarity_search_with_score(test_sorusu, k=3)
         
-        print("\n--- Sistem Tarafından Bulunan En Yakın Hastalık ---")
-        print(sonuclar[0].page_content)
-        print(sonuclar[1].page_content)
-        print(sonuclar[2].page_content)
+        print("\n--- Sistem Tarafından Bulunan En Yakın 3 Hastalık ---")
+        for i, (doc, score) in enumerate(sonuclar, 1):
+            print(f"{i}. Bulunan: {doc.page_content}\n   Güven Skoru (Düşük olması daha iyidir): {score}\n")
         print("---------------------------------------------------")
     
 else:
