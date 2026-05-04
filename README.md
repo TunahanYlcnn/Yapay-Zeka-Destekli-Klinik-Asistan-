@@ -21,7 +21,7 @@ Proje klasöründeyken terminale şu komutu yazarak Docker imajını hazırlayı
 docker-compose up --build -d
 ```
 
-##📦 Proje İçeriği ve Yapılandırma
+## 📦 Proje İçeriği ve Yapılandırma
 Docker Kullanımı: Proje tamamen Dockerize edilmiştir. Dockerfile üzerinden tüm sistem bağımlılıkları otomatik yüklenir.
 Python Bağımlılıkları: Gerekli tüm paketler requirements.txt dosyasında listelenmiştir.
 
