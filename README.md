@@ -13,31 +13,15 @@ Sisteminizde **Docker** kurulu olmalıdır.
 ```bash
 git clone [https://github.com/TunahanYlcnn/Yapay-Zeka-Destekli-Klinik-Asistan-.git](https://github.com/TunahanYlcnn/Yapay-Zeka-Destekli-Klinik-Asistan-.git)
 cd Yapay-Zeka-Destekli-Klinik-Asistan-
-
+```
 
 ### 3. Docker İmajını Oluşturun
-
 Proje klasöründeyken terminale şu komutu yazarak Docker imajını hazırlayın:
+```bash
+docker-compose up --build -d
+```
 
-docker build -t llm-giris-projesi .
-
-
-
-###4. Konteyneri Çalıştırın
-
-İmaj oluştuktan sonra projeyi şu komutla ayağa kaldırın:
-
-docker run -it --name llm-calisma-alani llm-giris-projesi
-
-
-
-📦 Proje İçeriği ve Yapılandırma
-
+##📦 Proje İçeriği ve Yapılandırma
 Docker Kullanımı: Proje tamamen Dockerize edilmiştir. Dockerfile üzerinden tüm sistem bağımlılıkları otomatik yüklenir.
 Python Bağımlılıkları: Gerekli tüm paketler requirements.txt dosyasında listelenmiştir.
-Geliştirme Ortamı: Proje Windows 11 Pro üzerinde, Lenovo Gaming sisteminde geliştirilmiştir.
-
-
-
-
 
